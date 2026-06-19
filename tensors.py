@@ -67,4 +67,3 @@ print("randn = ",randn)
 arange = torch.arange(0,10,2)
 print("arange = ",arange)
 
-
